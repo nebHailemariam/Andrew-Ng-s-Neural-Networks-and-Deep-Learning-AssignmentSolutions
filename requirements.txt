@@ -1,4 +1,4 @@
-notebook==6.2.0
+notebook==6.4.12
 numpy==1.19
 matplotlib==3.3.3
 scikit-learn==0.24.1
